@@ -1,0 +1,2 @@
+#Requirements 
+pip install -q finnhub-python sentence-transformers scikit-learn pandas
