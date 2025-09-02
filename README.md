@@ -29,4 +29,4 @@ When you run the script, you'll be guided through the process in the console:
 * A message confirming the Finnhub client has been initialized.
 * A prompt will ask you to enter a stock symbol.
 * Status updates will inform you that the script is fetching headlines, computing embeddings, and detecting reflexive clusters.
-*The final output is a pandas DataFrame displaying the top 10 news headlines. Each row will have a title and a reflexive flag (True if it's a near-duplicate, False otherwise).
+* The final output is a pandas DataFrame displaying the top 10 news headlines. Each row will have a title and a reflexive flag (True if it's a near-duplicate, False otherwise).
